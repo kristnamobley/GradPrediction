@@ -19,6 +19,6 @@ This project uses a machine learning model to predict whether high school studen
 The project uses a **Decision Tree Classifier** from 'scikit-learn' to predict wether students will graduate on time if at all.
 
 ### Steps:
-1. **Data Preparation**: Data from students who have already graduated was gather in SQL to create  table with studentids and columns including their data that would affect their graduation. Data was processedm cleaned and used for training the model.
+1. **Data Preparation**: Data from students who have already graduated was gather in SQL to create  table with studentids and columns including their data that would affect their graduation. Data was processed, cleaned and used for training the model.
 2. **Model Training**:The model is trained on features such as grades, attendance, and course completion.
 3. **Model Prediction**: The trained model is then used to make predictions on current student data to determine which students are likely to graduate on time.
